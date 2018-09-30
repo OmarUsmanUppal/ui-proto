@@ -46,10 +46,10 @@
 
 |パターンID|パターン名|概要|
 |:--|:--|:--|
-|CT_P1|Initial View|初期状態|
-|CT_P2|Major Category Selected|コントロールプレインの大カテゴリが選択されている状態。例えば、NEW ARRIVAL, MAISON EUREKA など|
-|CT_P3|Minor Category Selected|CT_P2で大カテゴリ選択後、例えば、TOP, BOTTOM, SHOES などの小カテゴリが選択されている状態|
-|CT_P4|Product Detail|特定商品を選択した際に表示。価格やサイズ、商品の解説文章などを表示|
+|[CT_P1](CTDetail/CT_P1_Iitial/detail.md)|Initial|Initial View|初期状態|
+|[CT_P2](UIDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected|コントロールプレインの大カテゴリが選択されている状態。例えば、NEW ARRIVAL, MAISON EUREKA など|
+|[CT_P3](UIDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected|Minor Category Selected|CT_P2で大カテゴリ選択後、例えば、TOP, BOTTOM, SHOES などの小カテゴリが選択されている状態|
+|[CT_4](UIDetail/CT_P4_ProductDetail/detail.md)|Product Detail|Product Detail|特定商品を選択した際に表示。価格やサイズ、商品の解説文章などを表示|
 
 # 3. 画面遷移図
 
@@ -79,6 +79,10 @@
 
 # 5. 画面遷移詳細仕様書
 
+* [CT_P1](CTDetail/CT_P1_Iitial/detail.md)|Initial
+* [CT_P2](UIDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected
+* [CT_P3](UIDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected
+* [CT_P4](UIDetail/CT_P4_ProductDetail/detail.md)|Product Detail
 
 
 
