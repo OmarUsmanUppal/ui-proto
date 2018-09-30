@@ -1,4 +1,4 @@
-# [CT_P2](UIDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected
+# [CT_P2](CTDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected
 
 ![MajorCategorySelected](MajorCategorySelected.png "MajorCategorySelected")
 

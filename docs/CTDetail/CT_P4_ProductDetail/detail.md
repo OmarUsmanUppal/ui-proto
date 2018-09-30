@@ -1,4 +1,4 @@
-# [CT_4](UIDetail/CT_P4_ProductDetail/detail.md)|Product Detail
+# [CT_4](CTDetail/CT_P4_ProductDetail/detail.md)|Product Detail
 
 ![ProductDetail](ProductDetail.png "ProductDetail")
 

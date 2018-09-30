@@ -1,4 +1,4 @@
-# [CT_P3](UIDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected
+# [CT_P3](CTDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected
 
 ![MinorCategorySelected](MinorCategorySelected.png "MinorCategorySelected")
 
