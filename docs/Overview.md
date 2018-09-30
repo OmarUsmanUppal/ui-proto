@@ -65,10 +65,10 @@
 
 ## 画面
 
-* [UI_P1](UIDetail/UI_P1_Introduction/detail.md)|Introduction
-* [UI_P2](UIDetail/UI_P2_Top/detail.md)|Top
-* [UI_P3](UIDetail/UI_P3_Category/detail.md)|Category
-* [UI_P4](UIDetail/UI_P4_Detail/detail.md)|Detail
+* [UI_P1](CTDetail/UI_P1_Introduction/detail.md)|Introduction
+* [UI_P2](CTDetail/UI_P2_Top/detail.md)|Top
+* [UI_P3](CTDetail/UI_P3_Category/detail.md)|Category
+* [UI_P4](CTDetail/UI_P4_Detail/detail.md)|Detail
 * UI_P5
 * UI_P6
 * UI_P7

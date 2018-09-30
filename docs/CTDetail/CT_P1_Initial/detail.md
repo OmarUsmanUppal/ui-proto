@@ -1,4 +1,4 @@
-# [CT_P1](CTDetail/CT_P1_Iitial/detail.md)|Initial
+# [CT_P1](CTDetail/CT_P1_Initial/detail.md)|Initial
 
 ![Initial](Initial.png "Initial")
 
