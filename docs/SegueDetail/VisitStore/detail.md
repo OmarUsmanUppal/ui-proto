@@ -1,6 +1,6 @@
-# [Visit Store](SegueDetail/VisitStore/detail.md)|Visit Store
+# [Visit Store(Introduction -> Top)](SegueDetail/VisitStore/detail.md)
 
-![SegueDetail_VisitStore](SegueDetail_VisitStore.png "SegueDetail_VisitStore")
+![VisitStore](VisitStore.png "VisitStore")
 
 ## 説明
 

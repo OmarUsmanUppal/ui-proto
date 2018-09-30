@@ -85,10 +85,10 @@
 # 5. 画面遷移詳細仕様書
 
 * [Visit Store(Introduction -> Top)](SegueDetail/VisitStore/detail.md)
-* Select Category(Top -> Category)
-* Select Category(Category -> Category)
-* Select Product Detail(Category -> Product)
-* Check Out(各ページ -> Checking out)
+* [Select Category(Top -> Category)](SegueDetail/SelectCategoryMajor/detail.md)
+* [Select Category(Category -> Category)](SegueDetail/SelectCategoryMajor/detail.md)
+* [Select Product Detail(Category -> Product)](SegueDetail/SelectProductDetail/detail.md)
+* [Check Out(各ページ -> Checking out)](SegueDetail/CheckOut/detail.md)
 
 
 # 6. 共通事項
