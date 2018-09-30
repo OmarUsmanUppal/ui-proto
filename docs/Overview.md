@@ -29,7 +29,7 @@
   * コントロールプレインとは、商品閲覧〜カート追加までの間、遷移先リンク集として使ったり、商品詳細ページでは商品詳細を表示したりする部品のこと。画像イメージは後述の画面詳細等に記載
   * !!余談!! このコントロールプレインは、商品閲覧〜カート追加までの間、UIから消えることなく常に表示させておく（画面全体のリロードが起こらないように閲覧内容の変化を実現する）実装にしたい、というのが今回の最も重要な要件の一つ
 
-## 画面パターン一覧
+## 画面一覧
 
 |パターンID|パターン名|概要|
 |:--|:--|:--|
@@ -42,11 +42,11 @@
 |UI_P7|Completing Order|支払いに関する情報を登録/選択し、注文を完了する画面|
 |UI_P8|Competed Order|注文が完了したあとに表示される画面|
 
-## コントロールプレインパターン一覧
+## コントロールプレイン一覧
 
 |パターンID|パターン名|概要|
 |:--|:--|:--|
-|[CT_P1](CTDetail/CT_P1_Iitial/detail.md)|Initial|Initial View|初期状態|
+|[CT_P1](CTDetail/CT_P1_Initial/detail.md)|Initial|Initial View|初期状態|
 |[CT_P2](CTDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected|コントロールプレインの大カテゴリが選択されている状態。例えば、NEW ARRIVAL, MAISON EUREKA など|
 |[CT_P3](CTDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected|Minor Category Selected|CT_P2で大カテゴリ選択後、例えば、TOP, BOTTOM, SHOES などの小カテゴリが選択されている状態|
 |[CT_P4](CTDetail/CT_P4_ProductDetail/detail.md)|Product Detail|Product Detail|特定商品を選択した際に表示。価格やサイズ、商品の解説文章などを表示|
@@ -76,14 +76,19 @@
 
 ## コントロールプレイン
 
-
-# 5. 画面遷移詳細仕様書
-
-* [CT_P1](CTDetail/CT_P1_Iitial/detail.md)|Initial
+* [CT_P1](CTDetail/CT_P1_Initial/detail.md)|Initial
 * [CT_P2](UIDetail/CT_P2_MajorCategorySelected/detail.md)|Major Category Selected
 * [CT_P3](UIDetail/CT_P3_MinorCategorySelected/detail.md)|Minor Category Selected
 * [CT_P4](UIDetail/CT_P4_ProductDetail/detail.md)|Product Detail
 
+
+# 5. 画面遷移詳細仕様書
+
+* [Visit Store(Introduction -> Top)](SegueDetail/VisitStore/detail.md)
+* Select Category(Top -> Category)
+* Select Category(Category -> Category)
+* Select Product Detail(Category -> Product)
+* Check Out(各ページ -> Checking out)
 
 
 # 6. 共通事項
