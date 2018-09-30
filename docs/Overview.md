@@ -57,6 +57,8 @@
 
 ![画面遷移図](overflow/ViewFlowOverview.png "画面遷移図")
 
+* Check Out画面への遷移は、一覧、詳細画面に必ずある"YOUR CART"ボタンをクリックすることで遷移する
+
 ## コントロールプレイン遷移図
 
 ![コントロールプレイン遷移図](overflow/ControlPlane.png "コントロールプレイン遷移図")
