@@ -63,11 +63,18 @@
 
 # 4. 画面詳細仕様書
 
+## 画面
+
 * [UI_P1](UIDetail/UI_P1_Introduction/detail.md)|Introduction
 * [UI_P2](UIDetail/UI_P2_Top/detail.md)|Top
 * [UI_P3](UIDetail/UI_P3_Category/detail.md)|Category
 * [UI_P4](UIDetail/UI_P4_Detail/detail.md)|Detail
+* UI_P5
+* UI_P6
+* UI_P7
+* UI_P8
 
+## コントロールプレイン
 
 
 # 5. 画面遷移詳細仕様書
