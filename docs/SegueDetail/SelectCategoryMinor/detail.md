@@ -1,4 +1,4 @@
-# [Select Category (Minor)](SegueDetail/SelectCategoryMinor/detail.md)
+# [Select Category(Category -> Category)](SegueDetail/SelectCategoryMinor/detail.md)
 
 ![SelectCategoryMinor](SelectCategoryMinor.png "SelectCategoryMinor")
 

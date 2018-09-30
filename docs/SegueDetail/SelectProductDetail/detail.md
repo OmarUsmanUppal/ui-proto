@@ -1,5 +1,5 @@
-# [Check Out](SegueDetail/CheckOut/detail.md)
+# [Select Product Detail(Category -> Product)](SegueDetail/SelectProductDetail/detail.md)
 
-![CheckOut](CheckOut.png "CheckOut")
+![SelectProductDetail](SelectProductDetail.png "SelectProductDetail")
 
 ## 説明
