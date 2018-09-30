@@ -30,4 +30,4 @@
 
 # 画面遷移図
 
-![画面遷移図](overflow/ViewFlowOverview.pdf "画面遷移図")
+![画面遷移図](overflow/ViewFlowOverview.png "画面遷移図")
