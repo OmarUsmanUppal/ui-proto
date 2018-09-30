@@ -53,7 +53,13 @@
 
 # 3. 画面遷移図
 
+## 画面遷移図
+
 ![画面遷移図](overflow/ViewFlowOverview.png "画面遷移図")
+
+## コントロールプレイン遷移図
+
+![コントロールプレイン遷移図](overflow/ControlPlane.png "コントロールプレイン遷移図")
 
 
 # 4. 画面/UI一覧
