@@ -8,6 +8,5 @@
 
 ## コントロールプレイン
 
-![SelectCategoryMinor](SelectCategoryMinor.png "SelectCategoryMinor")
 
 ## 説明
