@@ -35,7 +35,7 @@
 |:--|:--|:--|
 |[UI_P1](UIDetail/UI_P1_Introduction/detail.md)|Introduction|Welcomeメッセージが表示される画面|
 |[UI_P2](UIDetail/UI_P2_Top/detail.md)|Top|商品が閲覧できるトップページ。TBD が表示される画面|
-|UI_P3|Category|コントロールプレインで選択したカテゴリの商品が一覧表示される画面|
+|[UI_P3](UIDetail/UI_P3_Category/detail.md)|Category|コントロールプレインで選択したカテゴリの商品が一覧表示される画面|
 |UI_P4|Detail|Categoryページで選択した特定商品の詳細が表示される画面|
 |UI_P5|Checking out|カートに入れた商品の購入を開始する画面。住所等を入力|
 |UI_P6|Shipping Method|配送方法を選択する画面|
@@ -63,7 +63,9 @@
 
 # 4. 画面詳細仕様書
 
-![コントロールプレイン遷移図](overflow/ControlPlane.png "コントロールプレイン遷移図")
+* [UI_P1](UIDetail/UI_P1_Introduction/detail.md)
+* [UI_P2](UIDetail/UI_P2_Top/detail.md)
+
 
 
 
